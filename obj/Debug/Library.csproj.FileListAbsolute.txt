@@ -1,0 +1,28 @@
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\bin\Debug\Library.exe.config
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\bin\Debug\Library.exe
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\bin\Debug\Library.pdb
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.FLibrary.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.exe
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.pdb
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.FBusqueda.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.FInicioSesion.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.FMenu.resources
+D:\Usuarios\María Fernanda H\Desktop\Herramientas I\Library\obj\Debug\Library.FRegistro.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.FBusqueda.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.FInicioSesion.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.FLibrary.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.FMenu.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.FRegistro.resources
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.exe
+C:\Users\mafeh\Downloads\Library\obj\Debug\Library.pdb
+C:\Users\mafeh\Downloads\Library\bin\Debug\Library.exe.config
+C:\Users\mafeh\Downloads\Library\bin\Debug\Library.exe
+C:\Users\mafeh\Downloads\Library\bin\Debug\Library.pdb
